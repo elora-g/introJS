@@ -1,0 +1,9 @@
+td{
+	text-align: center;
+	border: 1px solid black;
+}
+
+.diagonale{
+	background-color: yellow; 
+	font-weight: bold;
+}
